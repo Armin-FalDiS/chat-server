@@ -1,0 +1,11 @@
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\bin\Debug\AFDChatClient.exe.config
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\bin\Debug\AFDChatClient.exe
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\bin\Debug\AFDChatClient.pdb
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.csprojResolveAssemblyReference.cache
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.Form1.resources
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.login.resources
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.Properties.Resources.resources
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.csproj.GenerateResource.Cache
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.csproj.CoreCompileInputs.cache
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.exe
+o:\Documents\Visual Studio 2017\Projects\AFDChatClient\AFDChatClient\obj\Debug\AFDChatClient.pdb
